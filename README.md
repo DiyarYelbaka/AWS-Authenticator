@@ -15,46 +15,41 @@
 <hr />
 
 ### What i used for this project
-- React Native with Expo
+- React Native CLI
 - React Navigation
-- React Native SVG
-- React Native Maps
-- React Native Dotenv
-- Expo
-- Redux
+- React Hook Form
+- AWS-Amplify
 
 <hr />
 
 ### Requirements
-- NodeJS
-- Smart Phone
-- Expo Go (You can find from Google Play or App Store)
-- **[IP Data API-KEY](https://ipdata.co/)**
+- React Native CLI
+- NNode, JDK
+- Android Studio
+- **[Full setup link](- https://reactnative.dev/docs/environment-setup)**
 
 <hr />
 
 ### How can i run this project
 
 ```console
-by@respect:~$ git clone https://github.com/byRespect/ip-query
-by@respect:~$ cd ip-query
-by@respect:~$ npm install -g expo-cli
+by@respect:~$ git clone https://github.com/DiyarYelbaka/AWS-Authenticator
+by@respect:~$ cd AWS-Authenticator
 by@respect:~$ npm install
-by@respect:~$ expo install
-by@respect:~$ npm run start
+by@respect:~$ npx react-native start
+by@respect:~$ npx react-native run-android
 ```
 
 If you have any error or issues please search on Google
 
-> :warning: **[IP Data API-KEY](https://ipdata.co/)**: You will change **.DEV.ENV** file to **.ENV** file!
+> :warning: **[IP Data API-KEY](https://reactnative.dev/docs/environment-setup)**: You need to make sure you installed correctly
 
 <hr />
 
 ### References
-- https://docs.ipdata.co/
-- https://reactnative.dev/
+- https://reactnative.dev
 - https://reactnavigation.org/
-- https://react-svgr.com/
-- https://redux.js.org/
+- https://react-hook-form.com
+- https://docs.amplify.aws/start/q/integration/react-native/
 - https://stackoverflow.com/
-- https://www.google.com/
+- https://www.youtube.com/c/notjustdev
