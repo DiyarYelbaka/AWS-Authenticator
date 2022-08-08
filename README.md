@@ -9,7 +9,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/DiyarYelbaka/AWS-Authenticator/blob/main/src/assets/images/aws.gif" width="120"  >
+  <img src="https://github.com/DiyarYelbaka/AWS-Authenticator/blob/main/src/assets/images/aws.gif" width="150"  >
 </p>
 
 <hr />
