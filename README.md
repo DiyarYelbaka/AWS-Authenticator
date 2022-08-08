@@ -1,13 +1,7 @@
 # AWS-Authenticator
 
 
-<p align="center">
-  
-  
-</p>
-### **AWS-Authenticator**
-
-<p align="center">
+<p >
   
   <img src="https://github.com/DiyarYelbaka/AWS-Authenticator/blob/main/src/assets/images/aws.gif" width="150"  >
 </p>
@@ -42,7 +36,7 @@ by@respect:~$ npx react-native run-android
 
 If you have any error or issues please search on Google
 
-> :warning: **[IP Data API-KEY](https://reactnative.dev/docs/environment-setup)**: You need to make sure you installed correctly
+> :warning: **[React-Native-CLI](https://reactnative.dev/docs/environment-setup)**: You need to make sure you installed correctly
 
 <hr />
 
